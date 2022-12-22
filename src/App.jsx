@@ -18,10 +18,6 @@ export function App() {
             author="Gabriel"
             content="Lorem ipsum dolor sit amet. Eum natus consequatur sit voluptatem dolores est totam deserunt. Qui sint magnam ex doloremque odio non natus eligendi sit officia fugit et voluptas quisquam."
           />
-          <Post
-            author="Xeke"
-            content="Lorem ipsum dolor sit amet. Eum natus consequatur sit voluptatem dolores est totam deserunt. Qui sint magnam ex doloremque odio non natus eligendi sit officia fugit et voluptas quisquam."
-          />
         </main>
       </div>
     </div>
